@@ -9,3 +9,4 @@ SanDisk ポータブルSSD 2TB USB3.2Gen2
 WordPress
 Docker Compose を使って WordPress、MySQL、phpMyAdmin のローカル環境の構築
 Mac mini (2023)
+Samsung microSDカード 512GB EVO Plus
