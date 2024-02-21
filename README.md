@@ -10,4 +10,6 @@ WordPress
 Docker Compose を使って WordPress、MySQL、phpMyAdmin のローカル環境の構築
 Mac mini (2023)
 Samsung microSDカード 512GB EVO Plus
-M2 Pro 搭載 Mac mini (2023)
+M2 Pro 搭載 Mac mini (2023
+Stable Diffusion
+
